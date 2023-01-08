@@ -1,0 +1,3 @@
+F:/Downloads/CI628/CMakeFiles/MyGame.dir
+F:/Downloads/CI628/CMakeFiles/ALL_BUILD.dir
+F:/Downloads/CI628/CMakeFiles/ZERO_CHECK.dir
